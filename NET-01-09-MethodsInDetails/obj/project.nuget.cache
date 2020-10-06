@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CFO6+n1/mWJLJiJLtdk4qUr0qTdpULSiTr1hQQSG4dJcjvGHxHOqJ7ng9r+0sV6Cz4ESHmfk/aY+/PhWLHovCA==",
+  "success": true,
+  "projectFilePath": "/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails.csproj",
+  "expectedPackageFiles": [
+    "/home/akenzhebayev/.nuget/packages/stylecop.analyzers/1.2.0-beta.205/stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "/home/akenzhebayev/.nuget/packages/stylecop.analyzers.unstable/1.2.0.205/stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

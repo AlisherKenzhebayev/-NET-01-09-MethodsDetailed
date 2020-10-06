@@ -1,0 +1,9 @@
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/bin/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.deps.json
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/bin/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.dll
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/bin/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.pdb
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.csprojAssemblyReference.cache
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.AssemblyInfoInputs.cache
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.AssemblyInfo.cs
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.csproj.CoreCompileInputs.cache
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.dll
+/home/akenzhebayev/Training Dir/NET-01-09-MethodsInDetails/NET-01-09-MethodsInDetails/obj/Debug/netcoreapp3.1/NET-01-09-MethodsInDetails.pdb
